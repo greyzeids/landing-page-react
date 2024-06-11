@@ -10,4 +10,3 @@ import Home from "./component/Home.jsx";
 
 //render your react application
 ReactDOM.render(<Home />, document.querySelector("#app"));
-v;
